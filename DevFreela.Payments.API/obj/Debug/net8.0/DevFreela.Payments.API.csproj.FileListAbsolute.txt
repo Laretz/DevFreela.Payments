@@ -1,0 +1,7 @@
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.csproj.AssemblyReference.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.AssemblyInfoInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.AssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.csproj.CoreCompileInputs.cache
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\renat\3D Objects\workspace\0.8 .NET\DevFreela.Payments\DevFreela.Payments.API\obj\Debug\net8.0\DevFreela.Payments.API.MvcApplicationPartsAssemblyInfo.cache
